@@ -1,0 +1,30 @@
+body {
+    background-color: #FDF6F0;
+}
+
+hr {
+    border-style: dotted none none none;
+    width: 20%;
+    border-width: 15px;
+    color: #fabfb9;
+}
+
+h1,h3,form {
+    color: #ff9589;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p,table,ul,ol {
+    color: #fabfb9;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+a:hover{
+    color: #4edac2;
+}
+
+a {
+    color: #ff9589;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
